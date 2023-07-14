@@ -2,8 +2,6 @@
 <img
       align="right"
       alt="coding"
-      width="100%"
-      height="400"
       src="Illustration-Site-web-Timsoft-2j.png"
     />
 <h1 align="center">Hi 👋, I'm Ghaith Saidani</h1>
