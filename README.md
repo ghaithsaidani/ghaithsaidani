@@ -1,6 +1,11 @@
 
-[![MasterHead](dazzle-online-language-learning.gif)](https://ghaithsaidani.me)
-
+<img
+      align="right"
+      alt="coding"
+      width="100%"
+      height="400"
+      src="dazzle-online-language-learning.gif"
+    />
 <h1 align="center">Hi 👋, I'm Ghaith Saidani</h1>
     <h3 align="center">
       Engineering student and a passionate frontend developer from Tunisia
