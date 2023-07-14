@@ -1,6 +1,13 @@
 [![MasterHead](https://madehuge.com/wp-content/uploads/2022/03/web-development.gif)](https://ghaithsaidani.io)
 [![ghaithsaidani's GitHub | Stats](https://stats.quine.sh/ghaithsaidani/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ghaithsaidani)
 [![ghaithsaidani's GitHub | Languages Over Time](https://stats.quine.sh/ghaithsaidani/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ghaithsaidani)
+
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+
 <h1 align="center">Hi 👋, I'm Ghaith Saidani</h1>
     <h3 align="center">
       Engineering student and a passionate frontend developer from Tunisia
@@ -28,7 +35,6 @@
 - 🌱 I’m currently learning **React Js, Node Js**
 
 - 💬 Ask me about **MERN**
-    
 - 📫 How to reach me **ghaithsaidani18@gmail.com**
     <h3 align="left">Connect with me:</h3>
     <p align="left">
