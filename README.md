@@ -1,5 +1,6 @@
 [![MasterHead](https://madehuge.com/wp-content/uploads/2022/03/web-development.gif)](https://ghaithsaidani.io)
 [![ghaithsaidani's GitHub | Stats](https://stats.quine.sh/ghaithsaidani/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ghaithsaidani)
+[![ghaithsaidani's GitHub | Languages Over Time](https://stats.quine.sh/ghaithsaidani/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ghaithsaidani)
 <h1 align="center">Hi 👋, I'm Ghaith Saidani</h1>
     <h3 align="center">
       Engineering student and a passionate frontend developer from Tunisia
