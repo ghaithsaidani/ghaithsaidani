@@ -1,9 +1,9 @@
-
 <img
       align="right"
       alt="coding"
       src="Illustration-Site-web-Timsoft-2j.png"
     />
+
 <h1 align="center">Hi 👋, I'm Ghaith Saidani</h1>
     <h3 align="center">
       Engineering student and a passionate frontend developer from Tunisia
@@ -273,23 +273,16 @@
       </a>
     </p>
     <p>
-      <img
-        align="left"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ghaithsaidani&show_icons=true&locale=en&layout=compact"
-        alt="ghaithsaidani"
-      />
-    </p>
-    <p>
-      &nbsp;<img
-        align="center"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=ghaithsaidani&show_icons=true&locale=en"
-        alt="ghaithsaidani"
-      />
-    </p>
-    <p>
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ghaithsaidani&"
-        alt="ghaithsaidani"
-      />
-    </p>
+    <img align="left"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaithsaidani&layout=donut-vertical&theme=dark"
+      alt="ghaithsaidani" />
+  </p>
+  <p>
+    &nbsp;<img align="center"
+      src="https://github-readme-stats.vercel.app/api?username=ghaithsaidani&show_icons=true&theme=dark"
+      alt="ghaithsaidani" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghaithsaidani&theme=dark"
+      alt="ghaithsaidani" />
+  </p>
