@@ -1,27 +1,5 @@
 [![MasterHead](https://madehuge.com/wp-content/uploads/2022/03/web-development.gif)](https://ghaithsaidani.io)
-[![ghaithsaidani's GitHub | Stats](https://stats.quine.sh/ghaithsaidani/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ghaithsaidani)
-[![ghaithsaidani's GitHub | Languages Over Time](https://stats.quine.sh/ghaithsaidani/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ghaithsaidani)
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <style>
-    body {
-      background-color: powderblue;
-    }
 
-    h1 {
-      color: blue;
-    }
-
-    p {
-      color: red;
-    }
-  </style>
-</head>
-
-<body>
 <h1 align="center">Hi 👋, I'm Ghaith Saidani</h1>
     <h3 align="center">
       Engineering student and a passionate frontend developer from Tunisia
@@ -30,7 +8,7 @@
       align="right"
       alt="coding"
       width="400"
-      src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
+      src="marginalia-programming.gif"
     />
     <p align="left">
       <img
@@ -311,4 +289,3 @@
         alt="ghaithsaidani"
       />
     </p>
-</body>
