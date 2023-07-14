@@ -1,4 +1,4 @@
-[![MasterHead](https://madehuge.com/wp-content/uploads/2022/03/web-development.gif)](https://ghaithsaidani.me)
+[![MasterHead](https://previews.dropbox.com/p/thumb/AB8kzSFC4iFhya1BexvO0Y8D7qY-0e513Gg9XcbtMWjXoTQKi4hHb1SlQDETfcA4VsafjWw2rcexeetPqXCeYSbK-28ekUAIFrHpEcd3_QcJm8WBmcFkFeDPRl91OJxmkuvXIx9qOPKn94N3seVYmPO-WbqGZn9Ck5wLVPApouHbg_rdW63o_JlqgTfq2FZiU89DkG5BwC1naVeHwhzBISkrZn7Dl4Kto_LVVC-WmRBWEje0lOxEXm7PAJh_SXnnxT5LlQJf3bY7iTdCt4VZmhmdXG-7DdeBfdiF0IGDNxI1t6ik0cSy3einZuvQiLrxK8vMNtWHZfOEXl6XSdeiO8-oBY-lGkl-zMw42KS0jfg9rdym3IqFQVUogqaLJI1QbAc3Wdbcc9Poh4Lp88q_cUF_/p.gif)](https://ghaithsaidani.me)
 
 <h1 align="center">Hi 👋, I'm Ghaith Saidani</h1>
     <h3 align="center">
