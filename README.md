@@ -1,5 +1,5 @@
 
-[![MasterHead](flame-team-working-together-on-a-website-design.gif)](https://ghaithsaidani.me)
+[![MasterHead](dazzle-online-language-learning.gif)](https://ghaithsaidani.me)
 
 <h1 align="center">Hi 👋, I'm Ghaith Saidani</h1>
     <h3 align="center">
