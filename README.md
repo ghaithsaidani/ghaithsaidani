@@ -1,4 +1,4 @@
-[![MasterHead](https://madehuge.com/wp-content/uploads/2022/03/web-development.gif)](https://ghaithsaidani.io)
+[![MasterHead](flame-team-working-together-on-a-website-design.gif)](https://ghaithsaidani.me)
 
 <h1 align="center">Hi 👋, I'm Ghaith Saidani</h1>
     <h3 align="center">
