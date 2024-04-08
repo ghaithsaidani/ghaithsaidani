@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Ghaith Saidani</h1>
     <h3 align="center">
-      Engineering student and a passionate frontend developer from Tunisia
+      Engineering student and a passionate fullstack developer from Tunisia
     </h3>
     <img
       align="right"
