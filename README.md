@@ -53,7 +53,7 @@
   <img src="https://cdn.simpleicons.org/git/F05030" height="30" alt="git logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img height="50"/>
+  <img width="8"/>
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="30" alt="jira logo"  />
