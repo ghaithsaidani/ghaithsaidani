@@ -89,7 +89,7 @@
 
 ###
 
-<img align="left" height="90" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVldzVhc2c4bW9hZ3NyNXVzMWl2ZGZjNXV1NTFmZWx4MzJkcjZ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/487L0pNZKONFN01oHO/giphy.gif"  />
+<img align="left" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVldzVhc2c4bW9hZ3NyNXVzMWl2ZGZjNXV1NTFmZWx4MzJkcjZ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/487L0pNZKONFN01oHO/giphy.gif"  />
 
 <img src="https://raw.githubusercontent.com/ghaithsaidani/ghaithsaidani/output/snake.svg" alt="Snake animation" />
 
@@ -99,8 +99,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghaithsaidani&radius=16&theme=elegant&area=true&order=5&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"  />
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghaithsaidani&radius=16&theme=elegant&area=true&order=5&hide_border=false&hide_title=false" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
