@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaithsaidani&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=true" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ghaithsaidani&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=20" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaithsaidani&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ghaithsaidani&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=20" height="150" alt="streak graph"  />
   
    <img src="https://github-readme-stats.vercel.app/api?username=ghaithsaidani&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=true" width="100%" alt="stats graph"  />
   
