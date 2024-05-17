@@ -89,9 +89,9 @@
 
 ###
 
-<img align="left" height="70" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVldzVhc2c4bW9hZ3NyNXVzMWl2ZGZjNXV1NTFmZWx4MzJkcjZ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/487L0pNZKONFN01oHO/giphy.gif"  />
+<img align="left" height="90" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVldzVhc2c4bW9hZ3NyNXVzMWl2ZGZjNXV1NTFmZWx4MzJkcjZ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/487L0pNZKONFN01oHO/giphy.gif"  />
 
-<img src="https://raw.githubusercontent.com/ghaithsaidani/ghaithsaidani/output/snake.svg" alt="Snake animation" />
+<img height="180" src="https://raw.githubusercontent.com/ghaithsaidani/ghaithsaidani/output/snake.svg" alt="Snake animation" />
 
 ###
 
