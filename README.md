@@ -3,10 +3,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghaithsaidani&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=true" height="100" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ghaithsaidani&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=20" height="100" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaithsaidani&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=true" height="100" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ghaithsaidani&row=1&theme=onestar&no-frame=true&no-bg=true&margin-w=12" height="100" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghaithsaidani&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ghaithsaidani&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=20" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaithsaidani&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ghaithsaidani&row=1&theme=onestar&no-frame=true&no-bg=true&margin-w=12" height="120" alt="trophy graph"  />
 </div>
 
 ###
@@ -89,13 +89,13 @@
 
 ###
 
-<img align="left" height="110" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVldzVhc2c4bW9hZ3NyNXVzMWl2ZGZjNXV1NTFmZWx4MzJkcjZ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/487L0pNZKONFN01oHO/giphy.gif"  />
+<img align="left" height="90" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVldzVhc2c4bW9hZ3NyNXVzMWl2ZGZjNXV1NTFmZWx4MzJkcjZ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/487L0pNZKONFN01oHO/giphy.gif"  />
 
 <img src="https://raw.githubusercontent.com/ghaithsaidani/ghaithsaidani/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img align="right" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo1ZjVvemp5b2o4OWNwa2w2MGh6MTdrZWd0azNoZ2l0cWkzaXIzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ntdy5Ban1dIY/giphy.gif"  />
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo1ZjVvemp5b2o4OWNwa2w2MGh6MTdrZWd0azNoZ2l0cWkzaXIzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ntdy5Ban1dIY/giphy.gif"  />
 
 ###
 
