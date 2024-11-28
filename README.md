@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Ghaith Saidani and I'm an Engineering Student and a Fullstack developer 👨‍💻 from Tunisia</h1>
+<h1 align="center">Hi 👋! My name is Ghaith Saidani and I'm an Engineering Student, passionate about DevOps and building scalable solutions 🌍.</h1>
 
 ###
 
@@ -18,47 +18,66 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/angular/DD0030" height="30" alt="angularjs logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/typescript/3078C6" height="30" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/css3/1072B6" height="30" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img src="https://cdn.simpleicons.org/c++" height="30" alt="c++ logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/linux" height="30" alt="linux logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.simpleicons.org/gnubash" height="30" alt="bash logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  />
+  <img src="https://cdn.simpleicons.org/git" height="30" alt="git logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img src="https://cdn.simpleicons.org/github/000" height="30" alt="github logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/git/F05030" height="30" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/gitlab" height="30" alt="gitlab logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="8"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img src="https://cdn.simpleicons.org/terraform" height="30" alt="terraform logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="30" alt="jira logo"  />
+  <img src="https://cdn.simpleicons.org/ansible" height="30" alt="ansible logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img src="https://cdn.simpleicons.org/docker" height="30" alt="docker logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/kubernetes" height="30" alt="kubernetes logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/helm" height="30" alt="helm logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/jenkins" height="30" alt="jenkins logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/argo" height="30" alt="argocd logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/vault" height="30" alt="vault logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="30" alt="aws logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/typescript" height="30" alt="typerscript logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/javascript" height="30" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/spring" height="30" alt="springboot logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="30" alt="nodejs logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/express" height="30" alt="express logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/react" height="30" alt="react logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" height="30" alt="tailwindcss logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/angular/DD0030" height="30" alt="angular logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/mysql" height="30" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/postgresql" height="30" alt="postgresql logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/mongodb" height="30" alt="mongodb logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/jira" height="30" alt="jira logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/figma" height="30" alt="figma logo"  />
+  <img width="8" />
 </div>
 
 ###
