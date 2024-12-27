@@ -4,9 +4,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaithsaidani&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ghaithsaidani&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=20" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ghaithsaidani&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=20&fire=2563EB&ring=2563EB&stroke=2563EB&currStreakLabel=2563EB" height="150" alt="streak graph"  />
+
   
-   <img src="https://github-readme-stats.vercel.app/api?username=ghaithsaidani&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=true" height="200" alt="stats graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=ghaithsaidani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&locale=en&theme=dark&ring_color=2563EB&icon_color=2563EB&hide_border=true" height="200" alt="stats graph"  />
   
   <img src="https://github-profile-trophy.vercel.app?username=ghaithsaidani&row=1&theme=onestar&no-frame=true&no-bg=true&margin-w=12" width="100%" alt="trophy graph"  />
 </div>
@@ -118,11 +119,5 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghaithsaidani&radius=16&theme=elegant&area=true&order=5&hide_border=false&hide_title=false" width="75%" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghaithsaidani&bg_color=0d1117&color=77767b&line=2563eb&point=77767b&area=true&hide_border=true" width="75%" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ghaithsaidani.ghaithsaidani&right_color=orange&left_text=Profil%20views"  />
-
-###
