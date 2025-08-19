@@ -51,7 +51,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="30" alt="aws logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30" alt="aws logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/typescript" height="30" alt="typerscript logo"  />
   <img width="8" />
