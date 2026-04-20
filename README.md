@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/df8wvnmod/image/upload/v1776682990/Make_your_README_svpwwr.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/df8wvnmod/image/upload/v1776685984/Make_your_README_Light_iw67o6.png">
-    <img src="https://res.cloudinary.com/df8wvnmod/image/upload/v1776682990/Make_your_README_svpwwr.png" width="100%" alt="Ghaith Saidani Banner">
+    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/df8wvnmod/image/upload/v1776686879/Make_your_README_izgq66.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/df8wvnmod/image/upload/v1776686955/Make_your_README_Light_zeby8i.png">
+    <img src="https://res.cloudinary.com/df8wvnmod/image/upload/v1776686955/Make_your_README_Light_zeby8i.png" width="100%" alt="Ghaith Saidani Banner">
   </picture>
 </p>
 
@@ -57,7 +57,7 @@ Automated local multi-node Kubernetes cluster using Vagrant + Ansible + kubeadm.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=ghaithsaidani&show_icons=true&theme=tokyonight">
+      srcset="https://github-readme-stats.vercel.app/api?username=ghaithsaidani&show_icons=true&hide_border=true&theme=tokyonight">
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://github-readme-stats.vercel.app/api?username=ghaithsaidani&show_icons=true&theme=default">
@@ -70,7 +70,7 @@ Automated local multi-node Kubernetes cluster using Vagrant + Ansible + kubeadm.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaithsaidani&layout=compact&theme=tokyonight">
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaithsaidani&layout=compact&hide_border=true&theme=tokyonight">
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaithsaidani&layout=compact&theme=default">
@@ -85,7 +85,7 @@ Automated local multi-node Kubernetes cluster using Vagrant + Ansible + kubeadm.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=ghaithsaidani&theme=tokyo-night&area=true">
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=ghaithsaidani&hide_border=true&theme=tokyo-night&area=true">
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=ghaithsaidani&theme=github-light&area=true">
