@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/df8wvnmod/image/upload/v1776693812/Make_your_README_s27bzt.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/df8wvnmod/image/upload/v1776782410/Make_your_README_cdxzag.png">
     <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/df8wvnmod/image/upload/v1776686955/Make_your_README_Light_zeby8i.png">
     <img src="https://res.cloudinary.com/df8wvnmod/image/upload/v1776686955/Make_your_README_Light_zeby8i.png" width="100%" alt="Ghaith Saidani Banner">
   </picture>
